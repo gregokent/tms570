@@ -1,0 +1,12 @@
+[package]
+name = "tms570lc43xx"
+version = "0.1.0"
+description = "Peripheral access API for TI TMS570LC43xx  microcontrollers"
+keywords = ["arm", "cortex-r", "tms570", "hercules"]
+categories = ["embedded"]
+license = "0BSD"
+
+[dependencies]
+bare-metal = "0.2.0"
+vcell = "0.1.0"
+
